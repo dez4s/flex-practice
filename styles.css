@@ -18,10 +18,15 @@
     justify-content: space-between;
 }
 
-.links{
+/*.links{
     display: flex;
     justify-content: flex-end;
+} Alternative with margin-left: auto active */
+
+.signup{
+    margin-left: auto;
 }
+
 .login{
     margin-left: 20px;
 }
